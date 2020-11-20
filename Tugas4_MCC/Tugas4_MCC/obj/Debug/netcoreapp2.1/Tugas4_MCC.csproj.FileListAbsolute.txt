@@ -1,0 +1,11 @@
+C:\Users\RM\source\repos\Tugas4_MCC\Tugas4_MCC\obj\Debug\netcoreapp2.1\Tugas4_MCC.csprojAssemblyReference.cache
+C:\Users\RM\source\repos\Tugas4_MCC\Tugas4_MCC\obj\Debug\netcoreapp2.1\Tugas4_MCC.csproj.CoreCompileInputs.cache
+C:\Users\RM\source\repos\Tugas4_MCC\Tugas4_MCC\obj\Debug\netcoreapp2.1\Tugas4_MCC.AssemblyInfoInputs.cache
+C:\Users\RM\source\repos\Tugas4_MCC\Tugas4_MCC\obj\Debug\netcoreapp2.1\Tugas4_MCC.AssemblyInfo.cs
+C:\Users\RM\source\repos\Tugas4_MCC\Tugas4_MCC\bin\Debug\netcoreapp2.1\Tugas4_MCC.deps.json
+C:\Users\RM\source\repos\Tugas4_MCC\Tugas4_MCC\bin\Debug\netcoreapp2.1\Tugas4_MCC.runtimeconfig.json
+C:\Users\RM\source\repos\Tugas4_MCC\Tugas4_MCC\bin\Debug\netcoreapp2.1\Tugas4_MCC.runtimeconfig.dev.json
+C:\Users\RM\source\repos\Tugas4_MCC\Tugas4_MCC\bin\Debug\netcoreapp2.1\Tugas4_MCC.dll
+C:\Users\RM\source\repos\Tugas4_MCC\Tugas4_MCC\bin\Debug\netcoreapp2.1\Tugas4_MCC.pdb
+C:\Users\RM\source\repos\Tugas4_MCC\Tugas4_MCC\obj\Debug\netcoreapp2.1\Tugas4_MCC.dll
+C:\Users\RM\source\repos\Tugas4_MCC\Tugas4_MCC\obj\Debug\netcoreapp2.1\Tugas4_MCC.pdb
